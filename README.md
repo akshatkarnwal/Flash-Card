@@ -33,10 +33,6 @@ Progress is tracked and saved to ensure effective learning.
 3. Run:
    python main.py
 
-📸 Screenshots
-
-    <img width="904" height="768" alt="image" src="https://github.com/user-attachments/assets/18e10864-5872-4c26-8725-c1f6e4b945bc" />
-    <img width="904" height="768" alt="image" src="https://github.com/user-attachments/assets/b6961361-8dfe-40ff-98bb-0b64d2e6db83" />
 
 📌 Future Improvements
    - Support for multiple languages
